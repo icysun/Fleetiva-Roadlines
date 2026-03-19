@@ -1,0 +1,7 @@
+/* Add responsive design styles here */
+@media (max-width: 768px) {
+  /* Styles for tablets */
+}
+@media (max-width: 480px) {
+  /* Styles for mobile phones */
+}
